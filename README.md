@@ -50,3 +50,9 @@ For example:
 Here, "THH" appears after "HHH".
 
 This elegant piece of mathematics is what locks your opponent into a losing game disguised as a fair one.
+
+### Extra
+
+In case of a more detailed explanation of this specific concept, I suggest watching the YouTube video below:
+
+[Penney's Game - Numberphile](https://www.youtube.com/watch?v=Sa9jLWKrX0c)
